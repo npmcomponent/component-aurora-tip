@@ -1,0 +1,16 @@
+{
+  "name": "component-aurora-tip",
+  "description": "Aurora theme for tool tips",
+  "version": "1.0.0",
+  "keywords": [
+    "aurora",
+    "theme",
+    "tip",
+    "tooltip",
+    "tooltips"
+  ],
+  "styles": [
+    "aurora-tip.css"
+  ],
+  "dependencies": {}
+}
